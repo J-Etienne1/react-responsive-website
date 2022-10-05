@@ -4,7 +4,7 @@
   --primary-dark: #4f9c55;
   --secondary-color: #ffea00;
   --secondary-dark: #e3d002;
-  --overlay: rgb(0,0,0,.7);
+  --overlay: rgba(0,0,0,.7);
 }
 
 *{
@@ -25,6 +25,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 1.2rem;
+  line-height: 1.2;
 }
 
 code {
