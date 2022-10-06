@@ -16,7 +16,7 @@ const Demo = () => {
           <button className="button">Get your FREE Consultation</button>
         </div>
         <div className="col-2"></div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/wLw3SVzu4rk?clip=UgkxYGE5M7VmWn0xjLSci_WqTtxeZyOqaTHA&amp;clipt=EIPlCxjf1w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="570" height="320" src="https://www.youtube.com/embed/wLw3SVzu4rk?clip=UgkxYGE5M7VmWn0xjLSci_WqTtxeZyOqaTHA&amp;clipt=EIPlCxjf1w0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
       </div>
     </div>
   );
