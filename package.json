@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "@svgr/plugin-svgo": "^5.5.0",
+    "@svgr/plugin-svgo": "^8.1.0",
     "@vitejs/plugin-react": "^4.3.2",
     "svgo": "^2.8.2",
     "vite": "^5.4.10",
